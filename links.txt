@@ -16,3 +16,7 @@ Authentication Method
 use-token-auth
 Authentication Token
 12345678
+
+
+api key a-4n4tb0-h6ebipw4o1
+auth token dD1S6oGMCnmFOfC3DH
