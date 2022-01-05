@@ -4,6 +4,7 @@ sample_iot code github.com/gnaneshwarbandari/iot
 node-red https://node-red-ryxne-2021-01-29.eu-gb.mybluemix.net/
 node-red install https://nodered.org/docs/getting-started/local
 drive https://drive.google.com/drive/folders/17U0hWZVJUB3vRVLnKGy6wXZ6cnjygmBa
+nodemcu_link http://arduino.esp8266.com/stable/package_esp8266com_index.json
 
 Organization ID
 4n4tb0
